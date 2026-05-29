@@ -1,0 +1,19 @@
+--extra-index-url https://pypi.nvidia.com
+
+# RAPIDS GPU stack - keep CUDA suffixes and versions matched
+cudf-cu13==26.4.*
+cugraph-cu13==26.4.*
+rmm-cu13==26.4.*
+
+# CUDA array library for: import cupy as cp
+cupy-cuda13x
+
+polars
+pandas
+numpy
+scipy
+tqdm
+igraph
+vptree
+python-tlsh
+networkx
