@@ -6,7 +6,7 @@ There is a requirements.txt file included in the repository that lists all the n
 
 # VP-Tree and IDF
 
-In cloneage.py, these stages have been disabled by being commented out so that the edges from the full dataset are used. These stages can be commented in and executed but due to their dynamic nature, will give a slightly differet results. They remain so they can be tested fully but the edges will be rewritten and IDF recalculated. 
+In cloneage.py, these stages have been disabled by being commented out so that the edges from the full dataset are used. These stages can be commented in and executed but due to their dynamic nature, will give a slightly different results. They remain so they can be tested fully but the edges will be rewritten and IDF recalculated. 
 
 # cloneage_eval.py
 
