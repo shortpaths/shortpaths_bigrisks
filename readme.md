@@ -13,7 +13,7 @@ In cloneage.py, these stages have been disabled by being commented out so that t
 This file contains the evaluation for CLONEAGE, conducted as part of Short Paths, Big Risks. When first cloned it only has the last experiment uncommented, simply uncomment whichever experiments are required to be run. 
 
 # CLOENAGE Description
-This module implements a multi-stage pipeline to detect structural and evolutionary relationships between browser extensions using Fuzzy Hashing (TLSH) and Information Theory (IDF) and .
+This module implements a multi-stage pipeline to detect structural and evolutionary relationships between browser extensions combining Fuzzy Hashing (TLSH), Information Theory (IDF), Network Theory and Community Detection.
 
 ## The Pipeline Architecture
 
